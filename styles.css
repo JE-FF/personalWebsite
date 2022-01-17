@@ -44,6 +44,8 @@ padding-bottom: 2.5%;
 .certBadges > li > a > img {
     height: 200px;
     width: auto;
+    margin-left: 10px;
+    margin-right: 10px;
 
    
 }
