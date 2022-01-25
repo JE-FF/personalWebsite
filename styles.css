@@ -50,6 +50,15 @@ padding-bottom: 2.5%;
    
 }
 
+#projects {
+    text-align: center;
+}
+
+.projectLogos {
+    height: 200px;
+    width: auto;
+}
+
 .aboutMe {
     margin-left: 15%;
     margin-right: 15%;
